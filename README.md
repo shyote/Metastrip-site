@@ -1,6 +1,6 @@
-# Metastrip — Website
+# Blankfile — Website
 
-Landing page, privacy policy, and support page for [Metastrip](https://apps.apple.com/app/metastrip) on the App Store.
+Landing page, privacy policy, and support page for [Blankfile](https://apps.apple.com/app/metastrip) on the App Store.
 
 ## Pages
 
@@ -10,7 +10,7 @@ Landing page, privacy policy, and support page for [Metastrip](https://apps.appl
 
 ## Live site
 
-Hosted on GitHub Pages: [shyote.github.io/Metastrip-site](https://shyote.github.io/Metastrip-site)
+Hosted on GitHub Pages: [shyote.github.io/Blankfile-site](https://shyote.github.io/Blankfile-site)
 
 ## Deploy
 
